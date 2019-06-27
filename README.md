@@ -1,35 +1,35 @@
-# DBƒXƒLƒ‹UPŠwK€–Ú
+# DBã‚¹ã‚­ãƒ«UPå­¦ç¿’é …ç›®
 
-## MSŒö®ƒTƒCƒg
-### ƒŠƒtƒ@ƒŒƒ“ƒX
-- [Transact-SQL ƒŠƒtƒ@ƒŒƒ“ƒX (ƒf[ƒ^ƒx[ƒX ƒGƒ“ƒWƒ“)](https://docs.microsoft.com/ja-jp/sql/t-sql/language-reference)
+## MSå…¬å¼ã‚µã‚¤ãƒˆ
+### ãƒªãƒ•ã‚¡ãƒ¬ãƒ³ã‚¹
+- [Transact-SQL ãƒªãƒ•ã‚¡ãƒ¬ãƒ³ã‚¹ (ãƒ‡ãƒ¼ã‚¿ãƒ™ãƒ¼ã‚¹ ã‚¨ãƒ³ã‚¸ãƒ³)](https://docs.microsoft.com/ja-jp/sql/t-sql/language-reference)
   - https://docs.microsoft.com/ja-jp/sql/t-sql/language-reference
 
-- [Transact-SQL \•¶•\‹L‹K‘¥ (Transact-SQL)](https://docs.microsoft.com/ja-jp/sql/t-sql/language-elements/transact-sql-syntax-conventions-transact-sql)
+- [Transact-SQL æ§‹æ–‡è¡¨è¨˜è¦å‰‡ (Transact-SQL)](https://docs.microsoft.com/ja-jp/sql/t-sql/language-elements/transact-sql-syntax-conventions-transact-sql)
   - https://docs.microsoft.com/ja-jp/sql/t-sql/language-elements/transact-sql-syntax-conventions-transact-sql
 
-### ƒ`ƒ…[ƒgƒŠƒAƒ‹
-- [ƒ`ƒ…[ƒgƒŠƒAƒ‹: Transact-SQL ƒXƒe[ƒgƒƒ“ƒg‚Ìì¬](https://docs.microsoft.com/ja-jp/sql/t-sql/tutorial-writing-transact-sql-statements)
+### ãƒãƒ¥ãƒ¼ãƒˆãƒªã‚¢ãƒ«
+- [ãƒãƒ¥ãƒ¼ãƒˆãƒªã‚¢ãƒ«: Transact-SQL ã‚¹ãƒ†ãƒ¼ãƒˆãƒ¡ãƒ³ãƒˆã®ä½œæˆ](https://docs.microsoft.com/ja-jp/sql/t-sql/tutorial-writing-transact-sql-statements)
   - https://docs.microsoft.com/ja-jp/sql/t-sql/tutorial-writing-transact-sql-statements
 
-## ŠÂ‹«
-### RDB»•i
-- SQL Server 2008 R2ˆÈ~
+## ç’°å¢ƒ
+### RDBè£½å“
+- SQL Server 2008 R2ä»¥é™
 
-### ƒf[ƒ^
-- [SQL ‚ÌƒTƒ“ƒvƒ‹](https://docs.microsoft.com/ja-jp/sql/samples/sql-samples-where-are)
+### ãƒ‡ãƒ¼ã‚¿
+- [SQL ã®ã‚µãƒ³ãƒ—ãƒ«](https://docs.microsoft.com/ja-jp/sql/samples/sql-samples-where-are)
   - https://docs.microsoft.com/ja-jp/sql/samples/sql-samples-where-are
 
-## [ƒf[ƒ^Œ^‚Ì—‰ğ]()
+## [ãƒ‡ãƒ¼ã‚¿å‹ã®ç†è§£](https://github.com/yamadakou/DBSkillUP/tree/master/1.%E3%83%87%E3%83%BC%E3%82%BF%E5%9E%8B%E3%81%AE%E7%90%86%E8%A7%A3)
 
-## ’Pƒ‚ÈƒNƒGƒŠ
+## å˜ç´”ãªã‚¯ã‚¨ãƒª
 
-## ƒe[ƒuƒ‹Œ‹‡
+## ãƒ†ãƒ¼ãƒ–ãƒ«çµåˆ
 
-## ŠÖ”
+## é–¢æ•°
 
-## “ú•tƒf[ƒ^‚Ì‘€ì
+## æ—¥ä»˜ãƒ‡ãƒ¼ã‚¿ã®æ“ä½œ
 
-## •¶š—ñƒf[ƒ^‚Ì‘€ì
+## æ–‡å­—åˆ—ãƒ‡ãƒ¼ã‚¿ã®æ“ä½œ
 
-## ƒe[ƒuƒ‹
+## ãƒ†ãƒ¼ãƒ–ãƒ«
