@@ -20,7 +20,7 @@
 - [SQL のサンプル](https://docs.microsoft.com/ja-jp/sql/samples/sql-samples-where-are)
   - https://docs.microsoft.com/ja-jp/sql/samples/sql-samples-where-are
 
-## [データ型の理解](https://github.com/yamadakou/DBSkillUP/tree/master/1.%E3%83%87%E3%83%BC%E3%82%BF%E5%9E%8B%E3%81%AE%E7%90%86%E8%A7%A3)
+## [データ型の理解](1.%E3%83%87%E3%83%BC%E3%82%BF%E5%9E%8B%E3%81%AE%E7%90%86%E8%A7%A3)
 
 ## 単純なクエリ
 
