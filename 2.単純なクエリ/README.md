@@ -31,6 +31,34 @@
 ### [BETWEEN](https://docs.microsoft.com/ja-jp/sql/t-sql/language-elements/between-transact-sql)
 - MSドキュメント
   - https://docs.microsoft.com/ja-jp/sql/t-sql/language-elements/between-transact-sql
+  - サンプルの補足
+  ```sql
+  -- 従業員の氏名と時給を時給の昇順で取得
+  SELECT e.FirstName, e.LastName, ep.Rate, ep.*  
+  FROM HumanResources.vEmployee e   
+  JOIN HumanResources.EmployeePayHistory ep   
+      ON e.BusinessEntityID = ep.BusinessEntityID  
+  ORDER BY ep.Rate;  
+  GO
+
+  -- BETWEENでは両端を含む範囲を取得する
+  SELECT e.FirstName, e.LastName, ep.Rate  
+  FROM HumanResources.vEmployee e   
+  JOIN HumanResources.EmployeePayHistory ep   
+      ON e.BusinessEntityID = ep.BusinessEntityID  
+  WHERE ep.Rate BETWEEN 19 AND 22.5  
+  ORDER BY ep.Rate;  
+  GO
+
+  -- 両端を含まない範囲を取得する場合は不等号を使用する
+  SELECT e.FirstName, e.LastName, ep.Rate  
+  FROM HumanResources.vEmployee e   
+  JOIN HumanResources.EmployeePayHistory ep   
+      ON e.BusinessEntityID = ep.BusinessEntityID  
+  WHERE ep.Rate > 19 AND ep.Rate < 22.5  
+  ORDER BY ep.Rate;  
+  GO
+  ```
 
 ### [TOP](https://docs.microsoft.com/ja-jp/sql/t-sql/queries/top-transact-sql)
 - MSドキュメント
