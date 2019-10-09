@@ -19,6 +19,15 @@
 ### データ
 - [SQL のサンプル](https://docs.microsoft.com/ja-jp/sql/samples/sql-samples-where-are)
   - https://docs.microsoft.com/ja-jp/sql/samples/sql-samples-where-are
+- サンプルDB「AdventureWorks」
+  - 入手先
+    - MS Doc
+      - https://docs.microsoft.com/ja-jp/sql/samples/adventureworks-install-configure?view=sql-server-2017
+    - GitHub
+      - https://github.com/Microsoft/sql-server-samples/releases/tag/adventureworks
+  - 各テーブルについては以下を参照
+    - [AdventureWorks データ辞書](https://docs.microsoft.com/ja-jp/previous-versions/sql/sql-server-2008/ms124438(v=sql.100))
+      - https://docs.microsoft.com/ja-jp/previous-versions/sql/sql-server-2008/ms124438(v=sql.100)
 
 ## [データ型の理解](1.%E3%83%87%E3%83%BC%E3%82%BF%E5%9E%8B%E3%81%AE%E7%90%86%E8%A7%A3)
 
